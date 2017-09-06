@@ -1,5 +1,5 @@
 {
-    "name": "mediaplatform/api-client-library",
+    "name": "suk-mp/api-client-library",
     "description": "An auto generated Composer package for the MediaPlatform API client library",
     "keywords": ["MediaPlatform", "client library", "video", "open source video", "video platform", "api"],
     "minimum-stability": "stable",
